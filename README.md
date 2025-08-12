@@ -1,4 +1,4 @@
-#  Scoring Crediticio con Regularización
+#  Scoring Crediticio con Regularización L1 y L2
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FHIgES9nJh_Y4Eu5zqdS-UUNbGAI7ZwO?authuser=2#scrollTo=1n_GrOBfpS3Z)
 
