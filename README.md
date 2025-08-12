@@ -70,9 +70,4 @@ El dataset contiene información de clientes, incluyendo:
 
 ---
 
-## ✒️ Autor
-**Cristian Riquelme**  
-[GitHub](https://github.com/CristianRiquelmeF)
-
----
 
