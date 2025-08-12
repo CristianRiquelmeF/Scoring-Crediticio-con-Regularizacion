@@ -1,6 +1,6 @@
 #  Scoring Crediticio con Regularización
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/tu-repositorio/blob/main/M5Final_CristianRiquelme.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FHIgES9nJh_Y4Eu5zqdS-UUNbGAI7ZwO?authuser=2#scrollTo=1n_GrOBfpS3Z)
 
 ## Descripción
 Este proyecto desarrolla un **modelo predictivo de scoring crediticio** utilizando un dataset de historial crediticio.  
