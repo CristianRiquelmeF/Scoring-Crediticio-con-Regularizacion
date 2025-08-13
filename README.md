@@ -9,9 +9,11 @@ El objetivo principal es desarrollar y comparar diferentes modelos predictivos p
 - **Preprocesamiento de datos:** limpieza, transformación y codificación de variables.
 - **Análisis exploratorio:** visualización y detección de patrones relevantes.
 - **Modelado:** implementación y comparación de varios algoritmos de clasificación, incluyendo:
-  - Regresión Logística
+  - Regresión Logística / regularización Lasso, Ridge y Elastic Net
   - Random Forest
+  - Random Forest con optimización de hiperparámetros
   - Gradient Boosting
+  - Adaptive Boosting
 - **Evaluación de modelos:** métricas como Accuracy, Precision, Recall, F1-score y AUC-ROC.
 - **Selección del mejor modelo:** basado en rendimiento y capacidad de generalización.
 
