@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/21745884/README.1.md)
 # Riesgo Crediticio con Modelos de Machine Learning
 
 Este proyecto aplica técnicas de *Machine Learning* para la evaluación y predicción del riesgo crediticio de clientes, utilizando datos históricos y métricas financieras.  
