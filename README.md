@@ -24,5 +24,8 @@ El objetivo principal es desarrollar y comparar diferentes modelos predictivos p
 ## Resultados
 Los resultados muestran que los modelos basados en *ensemble learning* (Random Forest y Gradient Boosting) superan en rendimiento a la regresión logística, alcanzando un AUC-ROC superior al 0.90.
 
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/f155f64b-2842-4017-93ab-e35359d546c3" />
+
+
 ---
 > Proyecto desarrollado como parte de portafolio de Machine Learning avanzado.
