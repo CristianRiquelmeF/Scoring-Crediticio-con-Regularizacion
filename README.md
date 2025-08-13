@@ -24,22 +24,5 @@ El objetivo principal es desarrollar y comparar diferentes modelos predictivos p
 ## Resultados
 Los resultados muestran que los modelos basados en *ensemble learning* (Random Forest y Gradient Boosting) superan en rendimiento a la regresión logística, alcanzando un AUC-ROC superior al 0.90.
 
-## Ejecución del proyecto
-1. Clonar este repositorio:
-   ```bash
-   git clone https://github.com/usuario/repositorio.git
-   cd repositorio
-   ```
-2. Instalar dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Ejecutar el notebook en Jupyter o Google Colab.
-
-## Autor
-**[Tu Nombre]**  
-*Data Science & Machine Learning Enthusiast*  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
-
 ---
-> Proyecto desarrollado como parte de portafolio de Machine Learning aplicado a finanzas.
+> Proyecto desarrollado como parte de portafolio de Machine Learning avanzado.
