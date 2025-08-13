@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LrYUXS0xFbhH4cc3J6dyYR9Ugw41Ka2E?authuser=2#scrollTo=KwXnYU2mDaII)
+
 # Riesgo Crediticio con Modelos de Machine Learning
 
 Este proyecto aplica técnicas de *Machine Learning* para la evaluación y predicción del riesgo crediticio de clientes, utilizando datos históricos y métricas financieras.  
